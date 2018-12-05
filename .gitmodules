@@ -1,3 +1,9 @@
 [submodule "autoload/pathogen"]
 	path = autoload/pathogen
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/vim-gotham"]
+	path = bundle/vim-gotham
+	url = https://github.com/whatyouhide/vim-gotham.git
