@@ -1,7 +1,9 @@
+" Use pathogen as plugin manager
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+" General configurations
 set ruler
 set number
 
@@ -9,8 +11,11 @@ set number
 "	Outsourcsing
 "
 
-" colors
+" Colors
 source ~/.vim/colorscheme.vim
 
-" commands
+" Commands
 source ~/.vim/commands.vim
+
+" Plugins
+source ~/.vim/plugins.vim
