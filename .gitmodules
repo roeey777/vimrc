@@ -61,3 +61,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/YouCompeleteMe"]
+	path = bundle/YouCompeleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
