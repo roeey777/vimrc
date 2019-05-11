@@ -1,1 +1,1 @@
-colorscheme gotham256
+colorscheme xoria256
